@@ -1,7 +1,9 @@
 ## KLICAM v2 
-Rust, Wasm, Vite, Svelte..just an experiment.
+Rust, Wasm, Vite, Svelte..just an experiment. Updated version of klicam, using a more modern toolkit.
 
-### resources
+![sshot](./sshot.png)
+
+### Resources
 - https://developer.mozilla.org/en-US/docs/WebAssembly/Rust_to_Wasm
 - https://www.youtube.com/watch?v=8zDYoprO358&ab_channel=FriendlyTL
 
